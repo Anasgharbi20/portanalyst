@@ -15,7 +15,7 @@ export default function Header() {
 
   <a
     className="rounded-lg text-white font-semibold transition flex items-center text-[0.8125rem] leading-6 py-1 px-1.5 hover:bg-white/[0.03]"
-    href="https://github.com/Anasgharbi20"
+    href="https://github.com/Anasgharbi20/portanalyst"
     style={{ marginLeft: "1000px" }}
   >
     <svg viewBox="0 0 24 24" aria-hidden="true" className="h-5 w-5 fill-white">

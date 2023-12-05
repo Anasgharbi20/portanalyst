@@ -13,7 +13,7 @@ function Main() {
     if (openPorts.length > 0) {
       setScanResults(openPorts);
     } else {
-      setScanResults([{ port: 'N/A', status: 'All ports are closed' }]);
+      setScanResults([{ port: 'Closed', status: 'ports are closed / non valid IP' }]);
     }
   } catch (error) {
     console.error('Error occurred during scan:', error);
