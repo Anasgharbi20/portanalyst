@@ -9,6 +9,7 @@ ProtAnalyst is a web application built with Express, React, Node.js, and Vite th
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 
 ![localhost_5173_](https://github.com/Anasgharbi20/portanalyst/assets/131900879/c987de10-3ac0-4505-b594-43536cef8138)
